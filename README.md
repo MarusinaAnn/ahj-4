@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/bk1gqkghuu9yh1an?svg=true)](https://ci.appveyor.com/project/SubHunt/ahj-4-testing)
 
-![CI](https://github.com/SubHunt/ahj_4_testing/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/MarusinaAnn/ahj-4/actions/workflows/web.yml/badge.svg)
 
 github-pages deployment - https://subhunt.github.io/ahj_4_testing/
 
