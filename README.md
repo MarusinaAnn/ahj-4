@@ -2,7 +2,7 @@
 
 ![CI](https://github.com/MarusinaAnn/ahj-4/actions/workflows/web.yml/badge.svg)
 
-github-pages deployment - https://subhunt.github.io/ahj_4_testing/
+github-pages deployment - https://marusinaann.github.io/ahj-4/
 
 # Домашнее задание к занятию "4.Организация тестирования"
 
